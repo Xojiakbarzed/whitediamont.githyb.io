@@ -1,1 +1,1 @@
-# whitediamont.githyb.io
+# whitediamont.github.io
